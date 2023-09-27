@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MEAN Stack**
 
-- 👨‍💻 All of my projects are available at [https://madan-ghodechor-portfolio.netlify.app/](https://madan-ghodechor-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My PortFolio](https://madan-ghodechor-portfolio.netlify.app/)
 
 - 💬 Ask me about **Angular, Javascript, Node.js, PHP**
 

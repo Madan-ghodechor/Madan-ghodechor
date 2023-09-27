@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [Open Resume](https://drive.google.com/file/d/1KMokiyJ5sr2SxCZ-8p2_3NKaMnlK4l3J/view?usp=sharing)
 
-- ⚡ Fun fact **I think i'm Funny 😁**
+- ⚡ Fact **I think i'm Genius 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

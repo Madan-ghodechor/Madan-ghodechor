@@ -1,4 +1,4 @@
-### Hi there 👋
+![logo](https://github.com/Madan-ghodechor/Madan-ghodechor/blob/main/splash.png)
 
 <h1 align="center">Hi 👋, I'm Madan Ghodechor</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>

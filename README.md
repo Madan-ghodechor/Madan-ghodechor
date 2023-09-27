@@ -1,4 +1,4 @@
-![logo](https://github.com/Madan-ghodechor/Madan-ghodechor/blob/main/splash.png)
+![logo](https://github.com/Madan-ghodechor/Madan-ghodechor/blob/main/IMG_20230927_143852.jpg)
 <h1 align="center">Hi 👋, I'm Madan Ghodechor</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 

@@ -1,5 +1,4 @@
 ![logo](https://github.com/Madan-ghodechor/Madan-ghodechor/blob/main/splash.png)
-
 <h1 align="center">Hi 👋, I'm Madan Ghodechor</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
@@ -7,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madan-ghodechor" alt="madan-ghodechor" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/madan47216003" target="blank"><img src="https://img.shields.io/twitter/follow/madan47216003?logo=twitter&style=for-the-badge" alt="madan47216003" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@madan47216003" target="blank"><img src="https://img.shields.io/twitter/follow/@madan47216003?logo=twitter&style=for-the-badge" alt="@madan47216003" /></a> </p>
 
 - 🔭 I’m currently working on [CDR Lab](cdr-comp.netlify.app)
 
@@ -25,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/madan47216003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madan47216003" height="30" width="40" /></a>
+<a href="https://twitter.com/@madan47216003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@madan47216003" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/madanghodechor4201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madanghodechor4201" height="30" width="40" /></a>
 <a href="https://fb.com/madan ghodechor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="madan ghodechor" height="30" width="40" /></a>
 <a href="https://instagram.com/madan_ghodechor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="madan_ghodechor" height="30" width="40" /></a>

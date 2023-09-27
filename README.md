@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madan-ghodechor" alt="madan-ghodechor" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@madan47216003" target="blank"><img src="https://img.shields.io/twitter/follow/@madan47216003?logo=twitter&style=for-the-badge" alt="@madan47216003" /></a> </p>
 
-- 🔭 I’m currently working on [CDR Lab](cdr-comp.netlify.app)
+
+- 🔭 I’m currently working on [CDR Lab](https://cdr-comp.netlify.app)
 
 - 🌱 I’m currently learning **MEAN Stack**
 

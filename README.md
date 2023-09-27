@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on <a herf="https://cdr-comp.netlify.app"> CDR Lab </a>
+- 🔭 I’m currently working on [My Live Project](https://cdr-comp.netlify.app/)
 
 - 🌱 I’m currently learning **MEAN Stack**
 
